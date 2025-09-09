@@ -1,4 +1,6 @@
-# Web-1
+# Atividades de HTML
+
+## Este repositório contém **14 atividades práticas** desenvolvidas para o aprendizado e prática de **HTML**. Cada atividade aborda diferentes elementos e conceitos fundamentais da construção de páginas web estáticas.
 
 - [Atividade 01](https://jardiele22.github.io/Repositorio_Atividade-01/)
 - [Atividade 02](https://jardiele22.github.io/Repositorio_Atividade--02/)
